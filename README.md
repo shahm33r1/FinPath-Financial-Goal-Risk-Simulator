@@ -6,31 +6,31 @@ This project was developed for my Programming in FinTech course to apply the fin
 
 ## How to Run
 
-**1. Open the project in PyCharm.**
+1. Open the project in PyCharm.
 
-**2. Open the Terminal** at the bottom of PyCharm.
+2. Open the Terminal at the bottom of PyCharm.
 
-**3. Navigate to the project folder** if you are not already in it.
+3. Navigate to the project folder if you are not already in it.
 
-**4. Activate the project's Python environment:**
+4. Activate the project's Python environment:
 
 ```bash
 source .venv/bin/activate
 ```
 
-**5. Start the application:**
+5. Start the application:
 
 ```bash
 python main.py
 ```
 
-**6. Running the tests (optional):**
+6. Running the tests (optional):
 
 ```bash
 python -m unittest discover
 ```
 
-**7. When you're done:**
+7. When you're done:
 
 Close the FinPath application window. To exit the Python environment, enter:
 
